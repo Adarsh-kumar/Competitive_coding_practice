@@ -1,2 +1,2 @@
 # Competitive_coding_practice
-Repository of prcatice problemss of competitive programming.
+Repository of practice  problems in competitive programming.
